@@ -249,4 +249,4 @@ This repository serves as the official landing page for AOMEI Backupper. The sof
 **Get the most recent version of AOMEI Backupper today!**
 
 ---
-**Last updated:** 2026-09-30 14:18:10 UTC
+**Last updated:** 2026-09-30 19:41:02 UTC
